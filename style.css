@@ -31,7 +31,7 @@
 }
 
 body {
-    background-image: url(assets/images/cityBackground.gif);
+    background-image: url(Assets/images/cityBackground.gif);
     background-size: cover;
     background-repeat: repeat;
     background-color: black;
